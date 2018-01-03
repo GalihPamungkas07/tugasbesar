@@ -36,5 +36,20 @@ int main(){
 	//r
 		cout << endl<<endl;
 		cout << "MATRIX R :"<<endl;
+		int nascar1=0;
+	do{
+		cout << Ra1c[nascar1]<<" | ";
+		nascar1++;
+	}while(nascar1<5);cout<<endl;
+		int nascar2=0;
+	do{
+		cout << Ra2c[nascar2]<<" | ";
+		nascar2++;
+	}while(nascar2<5);cout<<endl;
+		int nascar3=0;
+	do{
+		cout << Ra3c[nascar3]<<" | ";
+		nascar3++;
+	}while(nascar3<5);cout<<endl;
 	}
 	
