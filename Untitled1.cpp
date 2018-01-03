@@ -61,5 +61,20 @@ int main(){
 	//r*w
 	cout << endl<<endl;
 		cout << "MATRIX R * W :"<<endl;
+		int ferari1=0;
+	do{
+		cout << RWa1c[ferari1]<<" | ";
+		ferari1++;
+	}while(ferari1<5);cout<<endl;
+		int ferari2=0;
+	do{
+		cout << RWa2c[ferari2]<<" | ";
+		ferari2++;
+	}while(ferari2<5);cout<<endl;
+		int ferari3=0;
+	do{
+		cout << RWa3c[ferari3]<<" | ";
+		ferari3++;
+	}while(ferari3<5);cout<<endl;
 	}
 	
